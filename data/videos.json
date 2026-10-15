@@ -1,14 +1,5 @@
 [
   {
-    "id": "example-video",
-    "title": "My First Video",
-    "date": "2026-10-15",
-    "description": "This is an example video. Replace the file and edit this JSON to update title, date, and description.",
-    "filename": "example.mp4"
-  }
-]
-[
-  {
     "id": "001",
     "title": "Boy laughing in school",
     "date": "2026-10-15",
